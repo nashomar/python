@@ -15,7 +15,7 @@ Prerequisites
  Installation and Setup
 1. Clone the Repository:
    ```
-   git clone https://your-repository-url.com
+   git clone https://github.com/nashomar/python.git
    ```
    Or download the ZIP file and extract it.
 
